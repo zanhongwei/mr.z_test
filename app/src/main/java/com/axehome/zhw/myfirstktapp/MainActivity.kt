@@ -48,7 +48,7 @@ class MainActivity : AppCompatActivity() {
         val test = Test()
 //        test.test10forlist()
         test.foo3()
-        test.foo6()
+//        test.foo6()
 
     }
 
