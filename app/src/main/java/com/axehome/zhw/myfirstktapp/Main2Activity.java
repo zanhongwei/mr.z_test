@@ -8,6 +8,7 @@ import android.util.Log;
  * Created by Axehome_Mr.Z on 2018/12/15
  */
 public class Main2Activity extends AppCompatActivity {
+    //2019-1-3 pull
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
